@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  font-size: 6em;
+  
+}
+
+.count{
+  margin: 0;
+  color: #888;
+  font-weight: bold;
+}
+
+.wrap{ 
+  /* .wrapなのはなぜ？ */
+  background-color: #666;
+  margin-top: 20px;
+  padding: 80px 40px 80px 40px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.typed{
+  color: lightgreen;
+}
+
+.mistyped{
+  background-color: red;
+}
+
+.typecount{
+  margin-top: 20px;
+  color: #888;
+  font-weight: bold;
+  font-size: 36px;
+}
+
